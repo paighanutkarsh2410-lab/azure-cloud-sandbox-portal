@@ -5,3 +5,4 @@ instance/
 sandbox.db
 .env
 .vscode/
+.idea/
